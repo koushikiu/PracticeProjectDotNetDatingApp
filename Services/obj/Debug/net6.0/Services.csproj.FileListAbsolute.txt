@@ -1,0 +1,15 @@
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\Services.deps.json
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\Services.dll
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\ref\Services.dll
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\Services.pdb
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\DataModel.dll
+E:\DotnetDatinkgApp\Services\bin\Debug\net6.0\DataModel.pdb
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.dll
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\ref\Services.dll
+E:\DotnetDatinkgApp\Services\obj\Debug\net6.0\Services.pdb

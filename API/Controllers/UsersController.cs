@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using API.Controllers;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class UsersController : ControllerBase
+  
+    public class UsersController : BaseAPIController
     {
         private readonly IUsersRepository _usersRepository;
 

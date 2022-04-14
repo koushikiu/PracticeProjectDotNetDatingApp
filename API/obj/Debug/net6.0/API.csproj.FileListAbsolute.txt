@@ -37,6 +37,11 @@ E:\DotnetDatinkgApp\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\DataModel.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Services.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\DataModel.pdb
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Services.pdb
+E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
@@ -51,4 +56,3 @@ E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.dll
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\ref\API.dll
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.pdb
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
-E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache

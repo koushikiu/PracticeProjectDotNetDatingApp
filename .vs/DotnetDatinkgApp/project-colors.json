@@ -10,7 +10,22 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "f82aa588-4d30-4499-9951-89c74bd873c5": {
+      "ProjectGuid": "f82aa588-4d30-4499-9951-89c74bd873c5",
+      "DisplayName": "Repositories",
+      "ColorIndex": 1
+    },
+    "279d5952-161b-4498-9725-fac100d253f2": {
+      "ProjectGuid": "279d5952-161b-4498-9725-fac100d253f2",
+      "DisplayName": "DataModel",
+      "ColorIndex": 2
+    },
+    "74e4665f-457a-4ada-9104-2ff4d27a65c9": {
+      "ProjectGuid": "74e4665f-457a-4ada-9104-2ff4d27a65c9",
+      "DisplayName": "Services",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

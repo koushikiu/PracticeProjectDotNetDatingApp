@@ -30,10 +30,22 @@ namespace DataModel.Repositories
             await _dataDbContext.SaveChangesAsync();
             return user;
         }
+
+        public async Task<bool> UserExit(string name)
+        {
+            return (await _dataDbContext.Users.AnyAsync(u => u.UserName == name.ToLower()));
+        }
+
+        public async Task<AppUser> FindUser(string username)
+        {
+            return await _dataDbContext.Users.FirstOrDefaultAsync(user => user.UserName == username);    
+        }
     }
 }
 public interface IUsersRepository
 {
     Task<List<AppUser>> GetAllUsersAsync();
     Task<AppUser> AddUserAsync(AppUser user);
+    Task<bool> UserExit(string userName);
+    Task<AppUser> FindUser(string username);
 }

@@ -56,3 +56,7 @@ E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.dll
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\ref\API.dll
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.pdb
 E:\DotnetDatinkgApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,7 +1,7 @@
 ﻿using DataModel.Entites;
 
 
-namespace Services
+namespace services
 {
     public class UserManagementService : IUserManagementService
     {

@@ -60,3 +60,6 @@ E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.d
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 E:\DotnetDatinkgApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DotnetDatinkgApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

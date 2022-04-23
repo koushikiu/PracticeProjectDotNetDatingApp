@@ -40,6 +40,11 @@ namespace DataModel.Repositories
         {
             return await _dataDbContext.Users.FirstOrDefaultAsync(user => user.UserName == username);    
         }
+
+        public async Task<AppUser> GetUserAsync(int userId)
+        {
+            return await _dataDbContext.Users.FirstOrDefaultAsync(u => u.Id == userId);
+        }
     }
 }
 public interface IUsersRepository
@@ -48,4 +53,5 @@ public interface IUsersRepository
     Task<AppUser> AddUserAsync(AppUser user);
     Task<bool> UserExit(string userName);
     Task<AppUser> FindUser(string username);
+    Task<AppUser> GetUserAsync(int userId);
 }
